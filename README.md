@@ -4,8 +4,6 @@ These are the key links for Azure Synapse Link for Cosmos DB
 
 ## Documentation
 
-Official documentation:
-
 [Synapse Link for Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
 
 [Analytical store](https://docs.microsoft.com/en-us/azure/cosmos-db/analytical-store-introduction)
