@@ -1,6 +1,6 @@
-# Azure Synapse Link For Cosmos DB Key Links
+# Azure Synapse Link For Cosmos DB - Key Links
 
-These are the key links for Azure Synapse Link for Cosmos DB
+These are the key links for Azure Synapse Link for Cosmos DB. Everything you need in one page.
 
 ## Documentation
 
