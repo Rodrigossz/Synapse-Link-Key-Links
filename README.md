@@ -44,3 +44,5 @@ Use the [Recommendations Generator](https://raw.githubusercontent.com/JocaPC/qpi
 
 Use the [Schema Generator](https://htmlpreview.github.io/?https://github.com/Azure-Samples/Synapse/blob/main/SQL/tools/cosmosdb/generate-openrowset.html) to optimize your Synapse Link SQL queries
 
+Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-ver15) function to expose nested JSON data as columns.
+
