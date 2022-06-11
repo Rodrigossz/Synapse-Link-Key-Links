@@ -27,3 +27,5 @@ These best practices are mandatory for a good performance when using Azure Synap
 ## Labs and Samples
 
 [GitHub Azure Synapse Link samples reading from Cosmos DB analytical store using Spark](https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark/Synapse%20Link%20for%20Cosmos%20DB%20samples)
+
+[GitHub Microsoft Cloud Workshop - Real Time Analytics with Azure Synapse Link](https://github.com/microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics/blob/main/Hands-on%20lab/HOL%20step-by%20step%20-%20Cosmos%20DB%20real-time%20advanced%20analytics.md)
