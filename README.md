@@ -22,9 +22,7 @@ These are the key links for Azure Synapse Link for Cosmos DB. Everything you nee
 
 [Mandatory Best Practices](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
 
-## Labs and Samples
-
-Build your own PoC or demo with these GitHub repos:
+## Labs and Samples - Build your own PoC or demo with these GitHub repos
 
 [Azure Synapse Link samples reading from Cosmos DB analytical store using Spark](https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark/Synapse%20Link%20for%20Cosmos%20DB%20samples)
 
