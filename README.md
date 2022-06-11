@@ -44,3 +44,6 @@ Use the [Schema Generator](https://htmlpreview.github.io/?https://github.com/Azu
 
 Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-ver15) function to expose nested JSON data as columns.
 
+## Videos
+
+[Deep dive into Azure Synapse Link for Azure Cosmos DB](https://youtu.be/Wr1Cuhq7c0Y)
