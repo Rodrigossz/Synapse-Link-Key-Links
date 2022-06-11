@@ -4,6 +4,8 @@ These are the key links for Azure Synapse Link for Cosmos DB
 
 ## Documentation
 
+Official documentation:
+
 [Synapse Link for Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
 
 [Analytical store](https://docs.microsoft.com/en-us/azure/cosmos-db/analytical-store-introduction)
@@ -35,3 +37,10 @@ Build your own PoC or demo with these GitHub repos:
 [Azure Analytics End to End with Azure Synapse - Deployment Accelerator](https://github.com/Azure/azure-synapse-analytics-end2end)
 
 [Azure Synapse Link For CosmosDB 1-Click Environment](https://github.com/Azure/Test-Drive-Synapse-Link-For-CosmosDB-With-1-Click)
+
+## Tools
+
+Use the [Recommendations Generator](https://raw.githubusercontent.com/JocaPC/qpi/master/build/synapse-sql/qpi.sql) to check optimization opportunities, including datatypes
+
+Use the [Schema Generator](https://htmlpreview.github.io/?https://github.com/Azure-Samples/Synapse/blob/main/SQL/tools/cosmosdb/generate-openrowset.html) to optimize your Synapse Link SQL queries
+
