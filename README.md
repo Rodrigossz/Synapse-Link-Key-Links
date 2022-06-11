@@ -49,3 +49,7 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 [Deep dive: Azure Cosmos DB API for MongoDB + Azure Synapse Link](https://www.youtube.com/watch?v=iItNxN2EJ9U)
 
 [Microsoft BUILD - Learn how to enable analytics over real-time operational data with Azure Synapse Link](https://mybuild.microsoft.com/en-US/sessions/8b7ad5f0-d724-4c57-9e00-ae02874ddd0b?source=sessions)
+
+## Free Training - Microsoft Learn
+
+[Design hybrid transactional and analytical processing using Azure Synapse Analytics](https://aka.ms/learnlive-20220524G)
