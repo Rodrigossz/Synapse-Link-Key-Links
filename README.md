@@ -18,11 +18,9 @@ These are the key links for Azure Synapse Link for Cosmos DB
 
 [FAQs](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link-frequently-asked-questions)
 
-## Best Practices
+## Mandatory Best Practices for Azure Synapse SQL serverless
 
-These best practices are mandatory for a good performance when using Azure Synapse SQL serverless
-
-[Best Practices](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
+[Mandatory Best Practices](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
 
 ## Labs and Samples
 
