@@ -51,3 +51,7 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 ## Free Training - Microsoft Learn
 
 [Design hybrid transactional and analytical processing using Azure Synapse Analytics](https://aka.ms/learnlive-20220524G)
+
+## Blog Posts
+
+[Custom Partitioning](https://devblogs.microsoft.com/cosmosdb/custom-partitioning-azure-synapse-link/)
