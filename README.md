@@ -20,7 +20,7 @@ These are the key links for Azure Synapse Link for Cosmos DB. Everything you nee
 
 ## Mandatory Best Practices for Azure Synapse SQL serverless
 
-[Mandatory Best Practices](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
+[Mandatory Performance Best Practices for Azure Synapse SQL serverless](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
 
 ## Labs and Samples - Build your own PoC or demo with these GitHub repos
 
@@ -32,7 +32,7 @@ These are the key links for Azure Synapse Link for Cosmos DB. Everything you nee
 
 [Azure Synapse Link For CosmosDB 1-Click Environment](https://github.com/Azure/Test-Drive-Synapse-Link-For-CosmosDB-With-1-Click)
 
-## Tools
+## Tools for Azure Synapse SQL serverless
 
 Use the [Recommendations Generator](https://raw.githubusercontent.com/JocaPC/qpi/master/build/synapse-sql/qpi.sql) to check optimization opportunities, including datatypes
 
