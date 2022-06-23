@@ -55,5 +55,7 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 ## Blog Posts
 
 [Announcing Azure Synapse Link for Cosmos DB](https://devblogs.microsoft.com/cosmosdb/synapse-sql-serverless-preview/)
+
 [Announcing Existing Containers and PBI Integration](https://devblogs.microsoft.com/cosmosdb/azure-synapse-link-existing-containers-and-power-bi-integration/)
+
 [Annoucing Custom Partitioning for Synapse Link for Cosmos DB](https://devblogs.microsoft.com/cosmosdb/custom-partitioning-azure-synapse-link/)
