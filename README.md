@@ -46,7 +46,9 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 
 [Deep dive: Azure Cosmos DB API for MongoDB + Azure Synapse Link](https://www.youtube.com/watch?v=iItNxN2EJ9U)
 
-[Microsoft BUILD - Learn how to enable analytics over real-time operational data with Azure Synapse Link](https://mybuild.microsoft.com/en-US/sessions/8b7ad5f0-d724-4c57-9e00-ae02874ddd0b?source=sessions)
+[Microsoft BUILD 2022 - Learn how to enable analytics over real-time operational data with Azure Synapse Link](https://mybuild.microsoft.com/en-US/sessions/8b7ad5f0-d724-4c57-9e00-ae02874ddd0b?source=sessions)
+
+[Microsoft BUILD 2020 - Building real-time HTAP analytics solutions with Azure Cosmos DB & Azure Synapse](https://www.youtube.com/watch?v=faob1tuaTlQ)
 
 [Data Platform Summit - HTAP Analytics with Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=-1zyL56TaQQ)
 
