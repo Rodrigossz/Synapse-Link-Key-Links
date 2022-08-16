@@ -22,6 +22,8 @@ These are the key links for Azure Synapse Link for Cosmos DB. Everything you nee
 
 [Mandatory performance best practices for Azure Synapse SQL serverless](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975)
 
+Still have performance issues even after the best practices? Share your [STATEMENT IDs](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/how-to-provide-statement-id-in-the-serverless-sql-pool-support/ba-p/3532926) with us: cosmosdbsynapselink@microsoft.com 
+
 ## Labs and Samples - Build your own PoC or demo with these GitHub repos
 
 [Azure Synapse Link samples reading from Cosmos DB analytical store using Spark](https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark/Synapse%20Link%20for%20Cosmos%20DB%20samples)
@@ -39,6 +41,7 @@ Use the [Recommendations Generator](https://raw.githubusercontent.com/JocaPC/qpi
 Use the [Schema Generator](https://htmlpreview.github.io/?https://github.com/Azure-Samples/Synapse/blob/main/SQL/tools/cosmosdb/generate-openrowset.html) to optimize your Synapse Link SQL queries
 
 Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson-transact-sql?view=sql-server-ver15) function to expose nested JSON data as columns.
+
 
 ## Videos
 
