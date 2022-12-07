@@ -24,7 +24,7 @@ These are the key links for Azure Synapse Link for Cosmos DB. Everything you nee
 
 Still have performance issues even after the best practices? Share your [STATEMENT IDs](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/how-to-provide-statement-id-in-the-serverless-sql-pool-support/ba-p/3532926) with us: cosmosdbsynapselink@microsoft.com 
 
-## Labs and Samples - Build your own PoC or demo with these GitHub repos
+## Labs, samples, and accelerators - Build your own PoC or demo with these GitHub repos
 
 [Azure Synapse Link samples reading from Cosmos DB analytical store using Spark](https://github.com/Azure-Samples/Synapse/tree/main/Notebooks/PySpark/Synapse%20Link%20for%20Cosmos%20DB%20samples)
 
