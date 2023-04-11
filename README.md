@@ -2,6 +2,10 @@
 
 These are the key links for Azure Synapse Link for Cosmos DB. Everything you need in one page.
 
+## Short Link to this page
+
+https://aka.ms/synapse-link-cosmos-db-key-links
+
 ## Documentation
 
 [Synapse Link for Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
