@@ -55,6 +55,11 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 
 [Data Platform Summit - HTAP Analytics with Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=-1zyL56TaQQ)
 
+[Azure Cosmos DB analytical store Change Data Capture](https://www.youtube.com/watch?v=0e0b9gjtzv4)
+
+[Analytics with Analytical Store CDC and V2 Connector for Power BI | Azure Cosmos DB Conf 2023
+](https://www.youtube.com/watch?v=U6K9P-1snd0)
+
 ## Free Training - Microsoft Learn
 
 [Design hybrid transactional and analytical processing using Azure Synapse Analytics](https://aka.ms/learnlive-20220524G)
@@ -66,3 +71,5 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 [Announcing Existing Containers and PBI Integration](https://devblogs.microsoft.com/cosmosdb/azure-synapse-link-existing-containers-and-power-bi-integration/)
 
 [Annoucing Custom Partitioning for Synapse Link for Cosmos DB](https://devblogs.microsoft.com/cosmosdb/custom-partitioning-azure-synapse-link/)
+
+[Now in preview – Change Data Capture (CDC) with Azure Cosmos DB analytical store](https://devblogs.microsoft.com/cosmosdb/now-in-preview-change-data-capture-cdc-with-azure-cosmos-db-analytical-store/)
