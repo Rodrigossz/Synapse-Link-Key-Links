@@ -77,3 +77,6 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 [Annoucing Custom Partitioning for Synapse Link for Cosmos DB](https://devblogs.microsoft.com/cosmosdb/custom-partitioning-azure-synapse-link/)
 
 [Now in preview – Change Data Capture (CDC) with Azure Cosmos DB analytical store](https://devblogs.microsoft.com/cosmosdb/now-in-preview-change-data-capture-cdc-with-azure-cosmos-db-analytical-store/)
+
+[Now in preview - Time travel with Azure Cosmos DB analytical store](https://devblogs.microsoft.com/cosmosdb/unlocking-the-power-of-time-travel-in-azure-synapse-link-for-azure-cosmos-db/)
+
