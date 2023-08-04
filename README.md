@@ -80,3 +80,4 @@ Use the [OPENJSON](https://docs.microsoft.com/en-us/sql/t-sql/functions/openjson
 
 [Now in preview - Time travel with Azure Cosmos DB analytical store](https://devblogs.microsoft.com/cosmosdb/unlocking-the-power-of-time-travel-in-azure-synapse-link-for-azure-cosmos-db/)
 
+[Time Travel](https://devblogs.microsoft.com/cosmosdb/unlocking-the-power-of-time-travel-in-azure-synapse-link-for-azure-cosmos-db/)
